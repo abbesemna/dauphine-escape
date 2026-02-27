@@ -7,7 +7,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-lightblue)](https://matplotlib.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#license)
 
-Professional 2D arcade-style evasion game featuring predictive AI and real-time performance analytics.
+Professional 2D platformer evasion game featuring predictive AI and real-time performance analytics.
 
 ## Overview
 

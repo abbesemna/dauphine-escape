@@ -1,5 +1,12 @@
 # Dauphine Escape
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-green)](https://www.pygame.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.20%2B-blue)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-darkblue)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-lightblue)](https://matplotlib.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](#license)
+
 Professional 2D arcade-style evasion game featuring predictive AI and real-time performance analytics.
 
 ## Overview

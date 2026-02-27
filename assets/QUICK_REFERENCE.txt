@@ -1,0 +1,43 @@
+═══════════════════════════════════════════════════════════════
+  THE FINAL ESCAPE - ASSET QUICK REFERENCE
+═══════════════════════════════════════════════════════════════
+
+📁 ASSETS/BACKGROUND/
+  ✅ courtyard.png (have)
+  ❌ classroom.png (Level 1 - NEEDED)
+  ❌ library.png (Level 3 - NEEDED)
+  ❌ cafeteria.png (Level 4 - NEEDED)
+  ⚪ home.png (optional)
+
+📁 ASSETS/ICONS/
+  ✅ coffee.png (have)
+  ✅ lamp.png (have)
+  ✅ book.png (have)
+  ✅ brain.png (have)
+  ❌ heart.png (NEEDED - for 3 lives)
+  ❌ energy.png (NEEDED - power-up icon)
+  ❌ exit_portal.png (NEEDED - exit sprite)
+
+📁 ASSETS/PLAYER/
+  ✅ run_0.png (have)
+  ✅ run_1.png (have)
+  ✅ run_2.png (have)
+  ✅ run_3.png (have)
+  ⚪ jump_0.png, jump_1.png (optional - jump animation)
+  ⚪ run_coffee_0.png, run_coffee_1.png, ... (optional - coffee variant)
+  ⚪ run_book_0.png, run_book_1.png, ... (optional - book variant)
+  ⚪ run_lamp_0.png, run_lamp_1.png, ... (optional - lamp variant)
+  ⚪ run_brain_0.png, run_brain_1.png, ... (optional - brain variant)
+
+📁 ASSETS/ (root)
+  ❌ exam_0.png (NEEDED - exam enemy frame 1)
+  ❌ exam_1.png (NEEDED - exam enemy frame 2)
+  ❌ exam_2.png (NEEDED - exam enemy frame 3)
+
+📁 ASSETS/VIDEO/
+  ⚪ frame_001.png, frame_002.png, ... (optional - intro video)
+
+═══════════════════════════════════════════════════════════════
+  MINIMUM TO RUN: Add the ❌ items above
+  RECOMMENDED: Add ⚪ items for better visuals
+═══════════════════════════════════════════════════════════════

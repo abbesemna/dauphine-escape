@@ -1,0 +1,27 @@
+{
+  "game": {
+    "window_width": 1280,
+    "window_height": 720,
+    "fps": 60,
+    "game_duration_seconds": 120,
+    "initial_energy": 100
+  },
+  "ia": {
+    "speed": 3.2,
+    "jump_force": -14,
+    "detection_range": 500,
+    "attack_range": 150
+  },
+  "player": {
+    "speed": 4.5,
+    "max_speed": 7,
+    "jump_force": -15,
+    "gravity": 0.65,
+    "friction": 0.87
+  },
+  "difficulty": "normal",
+  "intro_duration_seconds": 45,
+  "data": {
+    "sessions_path": "data/sessions.json"
+  }
+}

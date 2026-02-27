@@ -4,7 +4,7 @@ Professional 2D arcade-style evasion game featuring predictive AI and real-time 
 
 ## Overview
 
-**Dauphine Escape** challenges players to navigate a virtual campus while being pursued by an adaptive AI "Examen". The project demonstrates the integration of pathfinding algorithms, predictive modeling, and data-driven gameplay.
+**Dauphine Escape** challenges players to navigate a virtual campus while being pursued by an adaptive AI "Exam". The project demonstrates the integration of pathfinding algorithms, predictive modeling, and data-driven gameplay.
 
 🎨 **Game Design Concept**: [View on Behance](https://www.behance.net/gallery/244916699/Dauphine-escape)
 
@@ -22,7 +22,7 @@ Professional 2D arcade-style evasion game featuring predictive AI and real-time 
 ## Technical Mechanics
 
 ### AI Behavior
-The "Examen" entity operates through a sophisticated logic layer:
+The "Exam" entity operates through a sophisticated logic layer:
 1. **Strategic Pathfinding**: Optimal route calculation via A* algorithm.
 2. **Dynamic State Machine**: Context-aware transitions between `PATROL`, `CHASE`, and `ATTACK` modes.
 3. **Trajectory Prediction**: Performance-optimized NumPy calculations to predict player positioning.
